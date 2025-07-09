@@ -74,10 +74,10 @@ Des améliorations esthétiques viendront plus tard au fil de mon apprentissage 
 
 ```bash
 # Cloner le repo
-git clone https://github.com/votre-username/nom-du-repo.git
+git clone https://github.com/sylvanix/first-react-project.git
 
 # Aller dans le dossier
-cd nom-du-repo
+cd first-react-project
 
 # Installer les dépendances
 npm install
