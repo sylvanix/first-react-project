@@ -1,0 +1,18 @@
+.feedback {
+  padding: 60px 40px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.feedback h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  color: #0d1117;
+}
+
+.feedback-list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}

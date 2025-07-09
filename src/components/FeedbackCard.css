@@ -1,0 +1,33 @@
+.feedback-card {
+  background-color: #f8f8f8;
+  padding: 30px;
+  border-radius: 10px;
+  width: 260px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feedback-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.message {
+  font-style: italic;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.name {
+  font-weight: bold;
+  color: #0d1117;
+}
